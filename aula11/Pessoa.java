@@ -1,4 +1,4 @@
-package com.mycompany.aula011;
+package com.mycompany.aula11;
 public abstract class Pessoa {
     protected String nome;
     protected int idade;

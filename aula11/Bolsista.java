@@ -1,4 +1,4 @@
-package com.mycompany.aula011;
+package com.mycompany.aula11;
 public class Bolsista extends Aluno{
     private float bolsa;
     

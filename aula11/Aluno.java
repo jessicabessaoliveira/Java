@@ -1,4 +1,4 @@
-package com.mycompany.aula011;
+package com.mycompany.aula11;
 public class Aluno extends Pessoa{ // herança para diferença
     private int matricula;
     private String curso;

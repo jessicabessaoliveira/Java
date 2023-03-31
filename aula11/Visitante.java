@@ -1,4 +1,4 @@
-package com.mycompany.aula011;
+package com.mycompany.aula11;
 public class Visitante extends Pessoa { // herança de implementação (pobre)
     
 }
